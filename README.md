@@ -17,7 +17,7 @@ graph TD
         K -->|Consumer Group: realtime-congestion-detector| C2[Speed Drop Evaluation <br/> Threshold < 5 km/h]
         C2 -->|Terminal Output| Alerts[Live Congestion Alerts]
     end
-
+` ``` `
 # Ride-Hailing Geospatial Telemetry Engine (Addis Ababa)
 
 ## 📌 Overview
